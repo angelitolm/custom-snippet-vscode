@@ -1,2 +1,2 @@
 # custom-snippet-vscode
-*** Plantillas Personalizadas (snippets) para VS Code
+# Plantillas Personalizadas (snippets) para VS Code
