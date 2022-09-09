@@ -1,0 +1,20 @@
+{
+  "Live Template - React Hook": {
+    "scope": "javascriptreact",
+    "prefix": "rh",
+    "body": [
+      "/**",
+      "* @author: Angel Labrada Massó",
+      "* @version: v0.0.1",
+      "* @date: ${CURRENT_DATE}/${CURRENT_MONTH}/${CURRENT_YEAR}",
+      "*/",
+      " ",
+      "export const use${1:HookName} = () => {",
+      " ",
+      "  return {}",
+      "};",
+      " ",
+    ],
+    "description": "Create React Hook"
+  }
+}

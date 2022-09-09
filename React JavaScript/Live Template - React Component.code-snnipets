@@ -1,0 +1,30 @@
+{
+  "Live Template - React Component": {
+    "scope": "javascriptreact",
+    "prefix": "rc",
+    "body": [
+			"/**",
+			"* @author: Angel Labrada Massó",
+			"* @version: v0.0.1",
+			"* @date: ${CURRENT_DATE}/${CURRENT_MONTH}/${CURRENT_YEAR}",
+			"*/",
+      "import React, {memo} from 'react';",
+      "import PropTypes from 'prop-types';",
+      " ",
+      "const ${1:ComponentName} = () => {",
+			" ",
+      "  return (",
+      "    <div></div>",
+      "  );",
+      "};",
+      " ",
+			"${1:ComponentName}.propTypes = {};",
+			" ",
+			"${1:ComponentName}.defaultProps = {};",
+			" ",
+      "export default memo(${1:ComponentName});",
+      " ",
+    ],
+    "description": "Create React Component"
+  }
+}
