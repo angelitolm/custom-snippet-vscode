@@ -1,4 +1,4 @@
-# Custom snnipets for VS Code
+# Custom snippets for VS Code
 
 ### React JavaScript Templates
 - Live Template - React Component (rc)
