@@ -1,0 +1,29 @@
+{
+  "Live Template - React Component Typescript": {
+    "scope": "typescriptreact",
+    "prefix": "rct",
+    "body": [
+			"/**",
+			"* @author: Angel Labrada Massó",
+			"* @version: v0.0.1",
+			"* @date: ${CURRENT_DATE}/${CURRENT_MONTH}/${CURRENT_YEAR}",
+			"*/",
+      "import {FC, memo} from 'react';",
+			" ",
+      "interface Props {",
+			" ",
+			"}",
+      " ",
+      "const ${1:ComponentName}: FC<Props> = () => {",
+			" ",
+      "  return (",
+      "    <div></div>",
+      "  );",
+      "};",
+			" ",
+      "export default memo(${1:ComponentName});",
+      " ",
+    ],
+    "description": "Create React Component - Typescript"
+  }
+}
